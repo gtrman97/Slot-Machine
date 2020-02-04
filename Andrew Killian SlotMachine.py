@@ -2,9 +2,9 @@
 # Description: 
 # 	This program simulates a slot machine. 
 # Author: Andrew Killian 
-# Date: 11/07/17
+# Date: 02/05/20
 # Revised: 
-# 	12/16/17 
+# 	02/05/20 
 
 # list libraries used
 import turtle 
