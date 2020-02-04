@@ -14,8 +14,6 @@ slot = turtle.Turtle()
 
 slot.speed(0)
 
-# Declare global constants
-
 # Main Program
 def main():
 
@@ -189,7 +187,7 @@ def chance():
     possibility = random.randint(1, 100)
 
     # Determine the slot number based on the random number; if it is
-    #  a multiple of 51, the number 100 appears on the screen    (the random number % 51 is 0)
+    #  a multiple of 51, the number 100 appears on the screen    
     #  a multiple of 47, the number 75 appears on the screen
     #  a multiple of 23, the number 50 appears on the screen
     #  a multiple of 11, the number 25 appears on the screen
